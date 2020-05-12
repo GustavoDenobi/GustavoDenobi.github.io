@@ -17,6 +17,7 @@ printing a new body and changing parts.
 
 ## The project
 So, being a beginner to 3D-printing and mechanical design in SolidWorks, I spent a lot of time testing and learning how to create models and print them.
+My first steps in SolidWorks were, as I see now, 4 years later, small. It's personally good to see how practicing has been a good teacher.
 
 ![Model made in SolidWorks]({{site.baseurl}}/assets/img/quadcopter.png)
 

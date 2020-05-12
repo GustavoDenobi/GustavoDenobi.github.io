@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: A Neural Networks writes Simpson scripts
+date: 2019-01-01 13:32:20 +0300
+description: In this project, many techniques are put together to develop an algorithm that writes script for a scene of a Simpsons episode. # Add post description (optional)
 img:  # Add image post (optional)
+tags: [Python, Deep-Learning, Nanodegree] # add tag
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

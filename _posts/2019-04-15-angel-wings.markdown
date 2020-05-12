@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: Angel Wings
+date: 2019-04-015 13:32:20 +0300
+description: A 3D printed mechanical skeleton to build a 4-meters wide wing. # Add post description (optional)
 img:  # Add image post (optional)
+tags: [SolidWorks, 3D-Printing] # add tag
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
