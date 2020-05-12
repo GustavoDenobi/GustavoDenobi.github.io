@@ -8,8 +8,8 @@ tags: [3D-Printing, SolidWorks, Quadcopter] # add tag
 ---
 ## The idea
 This project started with two interesting discoveries:
-1- Drone racing is a thrilling thing!
-2- You can't learn it without breaking drones.
+1. Drone racing is a thrilling thing!
+2. You can't learn it without breaking drones.
 
 By this time, I had just assembled my 3D printer and I was ready to design anything I could imagine. So it all came together: 
 I could start to practice drone racing if I designed a body for my recently bought drone, so fixing it would be a matter of 
@@ -18,7 +18,7 @@ printing a new body and changing parts.
 ## The project
 So, being a beginner to 3D-printing and mechanical design in SolidWorks, I spent a lot of time testing and learning how to create models and print them.
 
-![Model made in SolidWorks]({{site.baseurl}}/assets/img/quadcopter.jpg)
+![Model made in SolidWorks]({{site.baseurl}}/assets/img/quadcopter.png)
 
 The drone itself is a Hubsan X4 H107D. It's a cheap mini FPV quadcopter, a true bargain for a beginner. I will not go in 
 details on the drone, since there's no change to its electronics. I basically got it, removed everything from the original 
