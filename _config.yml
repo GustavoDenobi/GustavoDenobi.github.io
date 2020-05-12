@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Denobi
+tagline:          'Portfolio'
+description:      'Welcome to my portfolio! You can contant me in my Linkedin clicking <a href="https://www.linkedin.com/in/denobi/" target="_blank">here</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Denobi'
+  url:            https://www.linkedin.com/in/denobi/
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/GustavoDenobi/GustavoDenobi.github.io
