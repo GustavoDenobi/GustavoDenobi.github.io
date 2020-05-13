@@ -27,4 +27,4 @@ body and assembled in my own design.
 
 ![Some of the designs that were printed]({{site.baseurl}}/assets/img/quadcopter-designs.jpg)
 
-It was a very rewarding project, which I developed in 2 weeks. I did not manage to get any good any racing, though.
+It was a very rewarding project, which I developed in 2 weeks. I did not manage to get any good at racing, though.
