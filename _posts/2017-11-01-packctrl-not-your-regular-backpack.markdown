@@ -44,13 +44,13 @@ Modularity became a serious focus on the second version, as it makes the backpac
 ### The interface
 #### Body
 
-![Interface body]({{site.baseurl}}/assets/img/packctrl-toppanel.jpg){:height="200px"}
+![Interface body]({{site.baseurl}}/assets/img/packctrl-toppanel.jpg){:height="300px" align="center"}
 
 The body was composed of 4 parts. The two in the middle are stitched to the backpack. The bigger one houses the modules. The top one keeps the modules from coming out.
 
 #### Modules
 
-![Interface modules]({{site.baseurl}}/assets/img/packctrl-topmodules.jpg){:height="200px"}
+![Interface modules]({{site.baseurl}}/assets/img/packctrl-topmodules.jpg){:height="300px" align="center"}
 
 Many different modules were designed. Among them:
 - Dual switch module;
@@ -65,7 +65,7 @@ The internal panel was removable, composed of horizontal stripes of Velcro, and 
 
 ### PowerCTRL
 
-![Interface modules]({{site.baseurl}}/assets/img/packctrl-powerctrl.jpg){:height="200px"}
+![Interface modules]({{site.baseurl}}/assets/img/packctrl-powerctrl.jpg){:height="300px" align="center"}
 
 This is the powerhouse of the backpack. It is a modular system of batteries, chargers and power distribution hub. All the power connections are base in P4 (5.5mm) connectors, which are easy to use even if I couldn't see inside the backpack, despite being very bulky.
 
@@ -86,7 +86,7 @@ Originally named PackVRESTO, this was the cherry on top (or very hidden inside) 
 
 ### The inner computer
 
-![7" display]({{site.baseurl}}/assets/img/packctrl-display.jpg){:height="200px" align="center"}
+![7" display]({{site.baseurl}}/assets/img/packctrl-display.jpg){:height="300px" align="center"}
 
 The original project had a Raspberry Pi 2 model B and a powerbank that kept it running, but I still needed to connect it to an external display. It was cool, but could be cooler. And so, the last feature added to the backpack was a 7" display. So I had a fully functional computer inside my backpack, which I used to write sheets and documents during classes, and also play during my daily trips.
 
