@@ -40,8 +40,50 @@ Even before starting the project, I had a clear idea of the new features I wante
 Modularity became a serious focus on the second version, as it makes the backpack flexible and suitable for my daily trips, for travelling and for other purposes - left to future demand.
 
 ### The interface
+#### Body
 
+![Interface body]({{site.baseurl}}/assets/img/packctrl-toppanel.jpg)
 
+The body was composed of 4 parts. The two in the middle are stitched to the backpack. The bigger one houses the modules. The top one keeps the modules from coming out.
 
+#### Modules
 
+![Interface modules]({{site.baseurl}}/assets/img/packctrl-topmodules.jpg)
 
+Many different modules were designed. Among them:
+- Dual switch module;
+- HDMI bridge;
+- Internal lamp module;
+- Digital clock module;
+- P2 audio bridge;
+- USB bridge;
+
+### Internal panel
+The internal panel was removable, composed of horizontal stripes of Velcro, and free internal space to hide the GPS tracker;
+
+### PowerCTRL
+
+![Interface modules]({{site.baseurl}}/assets/img/packctrl-powerctrl.jpg)
+
+This is the powerhouse of the backpack. It is a modular system of batteries, chargers and power distribution hub. All the power connections are base in P4 (5.5mm) connectors, which are easy to use even if I couldn't see inside the backpack, despite being very bulky.
+
+#### PowerBANK
+The power storage units. Two models were created, with 2 or 4 cells. Each one had an internal charger and step-up (3V3 to 5V).
+
+#### PowerCHARGE
+To charge the batteries, I used a 12V to 5V step down. It was able to charge up to 5 PowerBANKs at once.
+
+#### PowerHUB
+To distribute power, I designed a simple hub, where PowerBANKs and other devices are connected in parallel. As for that time, I thought power consumption would be distributed equally between PowerBANKs, so, if each was capable of delivering 10W, I could consume 50W at once in other devices, which is a lot! Unfortunately, that was not the case, an this module proved to require further work.
+
+Originially, it was called PowerSOURCE, but I renamed it to PowerHUB later.
+
+### PackUBIEST
+
+Originally named PackVRESTO, this was the cherry on top (or very hidden inside) of the backpack. As this is a big project on its own, I will talk about it ![another post]({{site.baseurl}}/_posts\2017-11-02-packubiest-a-gps-tracker-for-my-backpack.markdown).
+
+### The inner computer
+
+![7" display]({{site.baseurl}}/assets/img/packctrl-display.jpg)
+
+The original project had a Raspberry Pi 2 model B and a powerbank that kept it running, but I still needed to connect it to an external display. It was cool, but could be cooler. And so, the last feature added to the backpack was a 7" display. So I had a fully functional computer inside my backpack, which I used to write sheets and documents during classes, and also play during my daily trips.
