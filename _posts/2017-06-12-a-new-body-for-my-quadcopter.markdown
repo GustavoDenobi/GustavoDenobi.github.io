@@ -19,12 +19,12 @@ printing a new body and changing parts.
 So, being a beginner to 3D-printing and mechanical design in SolidWorks, I spent a lot of time testing and learning how to create models and print them.
 My first steps in SolidWorks were, as I see now, 4 years later, small. It's personally good to see how practicing has been a good teacher.
 
-![Model made in SolidWorks]({{site.baseurl}}/assets/img/quadcopter.png)
+![Model made in SolidWorks]({{site.baseurl}}/assets/img/quadcopter.png){:style="display: block; margin-left: auto; margin-right: auto; width: 50%"}
 
 The drone itself is a Hubsan X4 H107D. It's a cheap mini FPV quadcopter, a true bargain for a beginner. I will not go in 
 details on the drone, since there's no change to its electronics. I basically got it, removed everything from the original 
 body and assembled in my own design.
 
-![Some of the designs that were printed]({{site.baseurl}}/assets/img/quadcopter-designs.jpg)
+![Some of the designs that were printed]({{site.baseurl}}/assets/img/quadcopter-designs.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 50%"}
 
 It was a very rewarding project, which I developed in 2 weeks. I did not manage to get any good at racing, though.
