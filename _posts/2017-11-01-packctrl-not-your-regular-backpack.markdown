@@ -19,6 +19,8 @@ The first version had a few features:
 - A 20Ah powerbank;
 - A Raspberry Pi 2 model B;
 
+You can see some of the few images left of it ![here](https://drive.google.com/open?id=1K1b8sHzvvxO1ia3-Cx-GRick6MSFG50Y).
+
 I used it for a couple months, until 13th July, 2017. In that day, I took my father to see the doctor and left my backpack in the car. After an hour, I came back to it and the backpack was gone! Such a shame!
 
 By then, I was at my second year of Mechatronics Engineering, and there was a deadline to register projects until 30th July. Ater mourning for the robbery, I decided it was time to shake the dust off and restart it!
@@ -87,3 +89,8 @@ Originally named PackVRESTO, this was the cherry on top (or very hidden inside) 
 ![7" display]({{site.baseurl}}/assets/img/packctrl-display.jpg)
 
 The original project had a Raspberry Pi 2 model B and a powerbank that kept it running, but I still needed to connect it to an external display. It was cool, but could be cooler. And so, the last feature added to the backpack was a 7" display. So I had a fully functional computer inside my backpack, which I used to write sheets and documents during classes, and also play during my daily trips.
+
+### Photo album
+
+You can access ![this link](https://drive.google.com/open?id=1KmL9Xzy1TrMzQYvCjhJEe7H3BLjo6xMi)  to see more pictures of the project.
+
