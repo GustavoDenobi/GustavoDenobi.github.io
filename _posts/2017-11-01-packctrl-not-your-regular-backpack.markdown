@@ -86,7 +86,7 @@ Originally named PackVRESTO, this was the cherry on top (or very hidden inside) 
 
 ### The inner computer
 
-![7" display]({{site.baseurl}}/assets/img/packctrl-display.jpg){:height="200px"}
+![7" display]({{site.baseurl}}/assets/img/packctrl-display.jpg){:height="200px" align="center"}
 
 The original project had a Raspberry Pi 2 model B and a powerbank that kept it running, but I still needed to connect it to an external display. It was cool, but could be cooler. And so, the last feature added to the backpack was a 7" display. So I had a fully functional computer inside my backpack, which I used to write sheets and documents during classes, and also play during my daily trips.
 
