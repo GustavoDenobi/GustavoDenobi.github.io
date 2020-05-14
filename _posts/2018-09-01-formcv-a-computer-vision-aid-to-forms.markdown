@@ -53,7 +53,7 @@ An extra feature of the project is the automation of the certificate generation 
 
 ![steps]({{site.baseurl}}/assets/img/formcv-generate.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 66%"}
 
-To write justified text to the PDF, I created a Python module called [Justipy]({{site.baseurl}}\_posts\2019-11-01-justipy-write-justified-text-with-python.markdown).
+To write justified text to the PDF, I created a Python module called [Justipy]({{site.baseurl}}/_posts/2019-11-01-justipy-write-justified-text-with-python.markdown).
 
 ## Conclusion
 
