@@ -1044,7 +1044,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   left: 0;
-  background-color: #515151;
+  background-color: #dbacac;
 }
 
 .contact .contact-title::after {
@@ -1059,7 +1059,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   right: 0;
-  background-color: #515151;
+  background-color: #dbacac;
 }
 
 .contact ul {
