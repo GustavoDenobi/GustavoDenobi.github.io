@@ -6,7 +6,7 @@ description: My first PackCTRL project was stolen and I had to make sure I'd be 
 img: packubiest.jpg # Add image post (optional)
 tags: [GPS, Arduino, PackCTRL] # add tag
 ---
-This project is part of the [PackCTRL project]({{site.baseurl}}/_posts\2017-11-01-packctrl-not-your-regular-backpack.markdown), and reading it first is a good idea.
+This project is part of the [PackCTRL project]({{site.baseurl}}/2017-11-01-packctrl-not-your-regular-backpack), and reading it first is a good idea.
 
 If you read it, you know why I wanted to add some security to my backpack. Short version: the first one was robbed.
 

@@ -91,7 +91,7 @@ Originially, it was called PowerSOURCE, but I renamed it to PowerHUB later.
 
 ### PackUBIEST
 
-Originally named PackVRESTO, this was the cherry on top (or very hidden inside) of the backpack. As this is a big project on its own, I will talk about it in [another post]({{site.baseurl}}/_posts\2017-11-02-packubiest-a-gps-tracker-for-my-backpack.markdown).
+Originally named PackVRESTO, this was the cherry on top (or very hidden inside) of the backpack. As this is a big project on its own, I will talk about it in [another post]({{site.baseurl}}/2017-11-02-packubiest-a-gps-tracker-for-my-backpack).
 
 ### The inner computer
 
