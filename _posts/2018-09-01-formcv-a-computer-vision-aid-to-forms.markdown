@@ -16,7 +16,7 @@ So, when I joined the project, it was called "Access Control", and the idea was 
 
 I assumed the project as its manager then, and started modelling the solution. It was a Friday, I remember, and I went all the way from home to the university to present the model to the head of the department. She listened carefully, and gave I simple "nice work, but it wouldn't work". She then explained that most of the consultants would not go there to work, so a fixed solution like a RFID reader wouldn't solve the problem. She also presented her reasons for prefering a paper based solution (which I did not agree with, I mus say).
 
-After that, driving the 60Km back home, I had the idea that turned into this project: if there are scanned tests, then it might be possible to make a scannable form and then develop an application to read it! This it how FormCV was born!
+After that, driving the 60Km back home, I had the idea that turned into this project: if there are scanned tests, then it might be possible to make a scannable form and then develop an application to read it! This is how FormCV was born!
 
 
 # FormCV
@@ -28,7 +28,7 @@ FormCV is a Computer Vision solution, composed of a standard form and an compute
 
 The standard form was a single page document consisting of a header and the scannable area, designed for an A4 sheet.
 
-![forms]({{site.baseurl}}/assets/img/formcv-forms.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 66%"}
+![forms]({{site.baseurl}}/assets/img/formcv-forms.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 33%"}
 
 
 ## FormCV application
@@ -51,7 +51,7 @@ The application provided the user an interface with the database where she could
 
 An extra feature of the project is the automation of the certificate generation task. Originally, she would copy and paste everyone's information in a Word file and then save it as a PDF. FormCV does that automatically! All she had to do was select a year, two months, optionally filter consultings and press "Generate Certificates". Voilá! All certificates generated and stored in a folder of ther choice.
 
-![steps]({{site.baseurl}}/assets/img/formcv-generate.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 95%"}
+![steps]({{site.baseurl}}/assets/img/formcv-generate.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 66%"}
 
 To write justified text to the PDF, I created a Python module called [Justipy]({{site.baseurl}}_posts\2019-11-01-justipy-write-justified-text-with-python.markdown).
 
