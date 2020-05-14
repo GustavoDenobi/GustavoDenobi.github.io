@@ -28,7 +28,19 @@ Everything was enclosed in a small 3D printed box, which I'd hide inside the int
 With this configuration, I could get up to 3 days of GPS tracking before recharging the module again, and I could still use other PowerBANKs to boost the PackUBIEST duration.
 
 ### SMS Communication
-Coming soon.
+So the foundation of the communication system was based on SMS messages, as a _reliable_ method. PackUBIEST would react to commands from a single authorized master number.
+
+To become its master, one should send it the command `Auth`. The module would react, asking for the password. If it receives the correct password in the next minute, the new master is registered.
+
+Being its master, there are a few commands available:
+| Command | Response |
+|---+---|
+| Juice? | Battery left, in percentage. |
+| Check | Tests connection to sattelites and answers the amount found |
+| Where? | Returns a link to Google Maps with a pin on the current location |
+| Activate | Enters real-time mode |
+| Deactivate | Exits real-time mode |
+
 
 ### Real-Time Communication
 Coming soon.
