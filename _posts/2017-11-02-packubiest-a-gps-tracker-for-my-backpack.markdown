@@ -47,7 +47,7 @@ The possibility to get a pin of the location of the backpack is a good feature, 
 
 The streaming was done through GPRS, which is more power-consuming and very unstable here in Brazil, so it was controlled by the basic SMS methods describe above, and if the connection was lost, it would fall back to normal, passive operation too.
 
-The map consisted of a simple HTML file with some javascript that would load the information from PubNub, a Data Streamn Network, and load it on a map provided by MapBox. The pin would be refreshed as soon as new information arrives, and clicking on it I was also able to see the current speed of the backpack.
+The map consists of a simple HTML file with some javascript that would load the information from PubNub, a Data Streamn Network, and load it on a map provided by MapBox. The pin would be refreshed as soon as new information arrives, and clicking on it I was also able to see the current speed of the backpack.
 
 ![Active mode]({{site.baseurl}}/assets/img/packubiest-map.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 75%"}
 
