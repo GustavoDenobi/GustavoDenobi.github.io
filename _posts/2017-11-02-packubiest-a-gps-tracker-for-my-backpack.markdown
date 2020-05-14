@@ -33,13 +33,16 @@ So the foundation of the communication system was based on SMS messages, as a _r
 To become its master, one should send it the command `Auth`. The module would react, asking for the password. If it receives the correct password in the next minute, the new master is registered.
 
 Being its master, there are a few commands available:
-| Command | Response |
-|---|---|
-| Juice? | Battery left, in percentage. |
-| Check | Tests connection to sattelites and answers the amount found |
-| Where? | Returns a link to Google Maps with a pin on the current location |
-| Aware | Enters real-time mode |
-| Deactivate | Exits real-time mode |
+
+|---
+| Command | Response
+|-
+| Juice? | Battery left, in percentage.
+| Check | Tests connection to sattelites and answers the amount found
+| Where? | Returns a link to Google Maps with a pin on the current location
+| Aware | Enters real-time mode
+| Deactivate | Exits real-time mode
+|---
 
 
 ### Real-Time Communication
