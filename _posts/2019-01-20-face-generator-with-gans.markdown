@@ -6,4 +6,6 @@ description: In this project, a duo of neural networks are used to develop a alg
 img: face-generator.jpg # Add image post (optional)
 tags: [Python, Deep-Learning, Nanodegree] # add tag
 ---
-Coming soon.
+This is the fourth of 5 projects I developed as tests for the Deep Learning Nanodegree, from Udacity.
+
+You can check it in [this notebook](https://github.com/GustavoDenobi/face_generator/blob/master/dlnd_face_generation.ipynb).

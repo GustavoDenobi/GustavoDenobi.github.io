@@ -6,4 +6,6 @@ description: Neural networks, reward functions and a quadcopter are put otgather
 img: rl-quadcopter.jpg # Add image post (optional)
 tags: [Python, Deep-Learning, Nanodegree] # add tag
 ---
-Coming soon.
+This is the fourth of 5 projects I developed as tests for the Deep Learning Nanodegree, from Udacity.
+
+You can check it in [this notebook](https://github.com/GustavoDenobi/RL_Quadcopter/blob/master/Quadcopter_Project.ipynb).

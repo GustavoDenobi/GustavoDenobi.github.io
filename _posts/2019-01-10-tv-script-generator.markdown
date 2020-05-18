@@ -6,4 +6,6 @@ description: In this project, many techniques are put together to develop an alg
 img: simpsons-script.jpg # Add image post (optional)
 tags: [Python, Deep-Learning, Nanodegree] # add tag
 ---
-Coming soon.
+This is the third of 5 projects I developed as tests for the Deep Learning Nanodegree, from Udacity.
+
+You can check it in [this notebook](https://github.com/GustavoDenobi/tv-script-generator/blob/master/dlnd_tv_script_generation.ipynb).
