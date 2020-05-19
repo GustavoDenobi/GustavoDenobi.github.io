@@ -6,4 +6,6 @@ description: This is an unfinished project, that aims to develop a device to dem
 img:  # Add image post (optional)
 tags: [SolidWorks] # add tag
 ---
-Coming soon.
+This is an unfinished project, that aims to develop a device to democratize the access of blind people to literature.
+
+Details coming soon.

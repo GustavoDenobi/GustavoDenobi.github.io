@@ -6,4 +6,6 @@ description: A 3D printed mechanical skeleton to build a 4-meters wide wing. # A
 img: angelwings.jpg # Add image post (optional)
 tags: [SolidWorks, 3D-Printing] # add tag
 ---
-Coming soon.
+A 3D printed mechanical skeleton to build a 4-meters wide wing.
+
+Details coming soon.

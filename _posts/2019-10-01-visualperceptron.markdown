@@ -6,4 +6,10 @@ description: To teach a class on the fundamentals of Deep Learning, nothing bett
 img: visualperceptron.jpg # Add image post (optional)
 tags: [Python, Deep-Learning] # add tag
 ---
-Coming soon.
+The VisualPerceptron is a project meant for visualization of the learning process of a Perceptron using gradient descent. It was originally designed to be used as an example of such algorithm in a class I taught about Neural Networks.
+
+The original implementation uses PyQT to provide a GUI, in which the user can tune some parameters, feed some data visually and watch the Perceptron learning (or not) how to classify the given data.
+
+All the Perceptron algorithm is implemented using no library other than Numpy.
+
+You can check it in [this repository](https://github.com/GustavoDenobi/VisualPerceptron).

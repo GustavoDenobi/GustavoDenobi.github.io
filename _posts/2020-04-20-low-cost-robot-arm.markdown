@@ -6,4 +6,6 @@ description: This is a group project, in which we had to develop the mechanical 
 img: scara.jpg # Add image post (optional)
 tags: [SolidWorks, Robotics] # add tag
 ---
+This is a group project, in which we had to develop the mechanical project of a robotic arm.
+
 Coming soon.

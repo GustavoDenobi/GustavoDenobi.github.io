@@ -6,4 +6,6 @@ description: When the financial problems created by the coronavirus situation hi
 img:  # Add image post (optional)
 tags: [Python, Automation] # add tag
 ---
-Coming soon.
+When the financial problems created by the coronavirus situation hit, automating people work was a good alternative for lowering operational costs.
+
+More details coming soon.
