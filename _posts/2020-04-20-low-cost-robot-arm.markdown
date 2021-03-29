@@ -8,4 +8,6 @@ tags: [SolidWorks, Robotics] # add tag
 ---
 This is a group project, in which we had to develop the mechanical project of a robotic arm.
 
-Coming soon.
+We developed a SCARA robot with a horizontal maximum reach of 40cm, aiming to develop a mechanical structure to perform tasks in very high speeds.
+
+More details yet to come!

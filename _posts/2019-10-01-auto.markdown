@@ -2,10 +2,10 @@
 layout: post
 title: Auto - scaling productivity during COVID-19 crisis
 date: 2020-04-30 13:32:20 +0300
-description: When the financial problems created by the coronavirus situation hit, automating people work was a good alternative for lowering operational costs. # Add post description (optional)
+description: When the financial problems created by the coronavirus situation hit, automating people work was the only alternative for lowering operational costs. # Add post description (optional)
 img:  # Add image post (optional)
 tags: [Python, Automation] # add tag
 ---
-When the financial problems created by the coronavirus situation hit, automating people work was a good alternative for lowering operational costs.
+When the financial problems created by the coronavirus situation hit, automating people work was the only alternative for lowering operational costs.
 
 More details coming soon.
